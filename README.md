@@ -1,2 +1,1 @@
-# 2017_09_2017_Code_Boostcamp
-Draftly write down from the Boostcamp
+Go to Wiki: https://github.com/JamsCenter/2017_09_2017_Wiki_Boostcamp/wiki
